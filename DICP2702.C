@@ -6,6 +6,7 @@ void main()
 	int i,a,j=0,k=0,b,c,flag;
 	clrscr();
 	printf("enter a string\n");
+	
 	gets(str);
 	for(i=0;str[i]!='\0';i++)
 	{
