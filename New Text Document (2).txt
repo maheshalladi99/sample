@@ -1,0 +1,34 @@
+#include <stdio.h>
+int main()
+{
+    int i,c=0,j,b[20];
+    char name[20],a[20];
+    printf("Enter name: ");
+    scanf("%s", name);
+    printf("Your name is %c.\n", name[0]);
+    for(i=0;name[i]!='\0';i++)
+    {
+        a[i]=name[i];
+    }
+    //a[0]=name[0];
+    printf("%s\n",a);
+    for(i=0;name[i]!='\0';i++)
+    {
+        for(j=0;a[j]!='\0';j++)
+        {
+            if(name[i] == a[j])
+            {
+               // a[j]='z';
+              b[i] =  c++;
+                break;
+            }
+        }
+    }
+   for(i=0;b[i]!='\0';i++)
+    {
+        printf("%d ",b[i]);
+    }//*/
+    //printf("%d ",c);
+    return 0;
+    
+}
