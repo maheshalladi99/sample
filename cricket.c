@@ -110,11 +110,11 @@ void main()
 	}
 	else
 	{
-	    printf("    BATTING TEAM\n");
+	    printf("    BATTING TEAM \n");
 	    printf("SCORE : %d - %d",score,wicket);
 	    printf("\nplayer %d on strike\nplayer %d is on offstrike\n",player[0],player[1]);
 	}
-	printf("    BOWLING TEAM\n");
+	printf("    BOWLING TEAM \n");
 	printf("wickets taken: %d\n",wicket);
 	
 	
