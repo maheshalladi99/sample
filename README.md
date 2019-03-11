@@ -1,9 +1,7 @@
 # sample
 hi
 h
-e
-l
-lon
+ellon
 amask
 aram
 how
