@@ -3,8 +3,7 @@ hi
 h
 e
 l
-l
-on
+lon
 amask
 aram
 how
