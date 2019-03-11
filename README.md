@@ -4,8 +4,7 @@ h
 e
 l
 l
-o
-n
+on
 amask
 aram
 how
