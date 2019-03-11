@@ -103,7 +103,7 @@ void main()
 	
 	if(wicket == 10)
 	{
-	    printf("    BATTING  TEAM :  ");
+	    printf("    BATTING TEAM :  ");
 	    printf("SCORE : %d - %d \n",score,wicket);
 	    printf("ALL OUT");
 	    printf("7 is on offstrike\n");
