@@ -1,7 +1,6 @@
 # sample
 hi
-h
-ello
+hello
 namaskaram
 how
 are
