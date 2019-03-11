@@ -6,17 +6,10 @@ l
 l
 o
 n
-a
-m
-a
-s
-k
+amask
 aram
 how
 are
 you
-g
-u
-y
-s
+guys
 
