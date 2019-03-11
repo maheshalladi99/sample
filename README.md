@@ -1,9 +1,8 @@
 # sample
 hi
 h
-ellon
-amask
-aram
+ello
+namaskaram
 how
 are
 you
