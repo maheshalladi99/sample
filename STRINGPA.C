@@ -18,7 +18,7 @@ void main()
  }
        if(flag==1)
        {
-	  printf("%s is a palindrome :",str);
+	  printf("%s is a palindrome : ",str);
        }
        else
        {
